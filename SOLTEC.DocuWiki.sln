@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SOLTEC.DocuWiki", "SOLTEC.DocuWiki.csproj", "{F551F016-E0EE-4F2D-D974-ABFF6B8BF5CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F551F016-E0EE-4F2D-D974-ABFF6B8BF5CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F551F016-E0EE-4F2D-D974-ABFF6B8BF5CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F551F016-E0EE-4F2D-D974-ABFF6B8BF5CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F551F016-E0EE-4F2D-D974-ABFF6B8BF5CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C30D417B-818C-4382-AF30-7BDF2762D56B}
+	EndGlobalSection
+EndGlobal
